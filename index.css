@@ -20,7 +20,21 @@ header {
 }
 
 header .container {
-    color: white;
+    padding-top: 20%;
+}
+
+/*who we are*/
+#who_we_are {
+    padding-top: 5%;
+}
+
+.title {
+    background: #00b3fa;
+    height: 100%;
+}
+
+#wo_we_are p {
+    padding-top: 20%;
 }
 /*FOOTER*/
 

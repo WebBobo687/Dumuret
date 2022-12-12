@@ -1,0 +1,30 @@
+/*NAVBAR*/
+
+.navbar {
+    background-color: #00b3fa;
+    color: #3c3c3c;
+}
+
+.navbar a {
+    color: #3c3c3c;
+}
+.navbar .nav-link:hover {
+    text-decoration: underline;
+}
+
+/*BANNER*/
+
+header {
+    background: #3c3c3c;
+    height: 50vw;
+}
+
+header .container {
+    color: white;
+}
+/*FOOTER*/
+
+footer{
+    background-color: #00b3fa;
+    height: 10vw;
+}

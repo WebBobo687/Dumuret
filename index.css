@@ -15,7 +15,9 @@
 /*BANNER*/
 
 header {
-    background: #3c3c3c;
+    background-image: url(/sources/batiment.png);
+    background-size: 100%;
+    background-attachment: fixed;
     height: 50vw;
 }
 

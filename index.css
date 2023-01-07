@@ -56,6 +56,18 @@ header .container {
     justify-items: center;
 }
 
+.card {
+    padding-block: 5%;
+    margin-block: 2%;
+}
+
+.card img {
+    height: -webkit-fill-available;
+}
+
+.card .card-title {
+    background: #00b3fa;
+}
 /* Contact */
 
 .contact {

@@ -46,7 +46,7 @@ header .container {
 }
 
 #who-we-are-text {
-    font-size: 125%;
+    font-size: 150%;
 }
 
 .title {
@@ -100,4 +100,14 @@ header .container {
 
 footer{
     text-align: center;
+}
+
+@media screen and (max-width: 425px){
+    #who-we-are-text {
+        font-size: 125%;
+    }
+
+    footer {
+        font-size: 90%;
+    }
 }

@@ -51,6 +51,14 @@ header .container {
 .row {
     justify-items: center;
 }
+
+/* Contact */
+
+.contact {
+    padding-top: 5%;
+    font-size: large;
+}
+
 /*FOOTER*/
 
 footer{

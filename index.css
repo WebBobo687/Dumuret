@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
+
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
 /*NAVBAR*/
 
 .navbar {
@@ -36,6 +42,10 @@ header .container {
 /*who we are*/
 #who_we_are {
     padding-block: 5%;
+}
+
+#who-we-are-text {
+    font-size: 25px;
 }
 
 .title {

@@ -92,8 +92,13 @@ header .container {
 }
 
 .carte {
+    transition: box-shadow .3s;
     height: 400px;
     width: 95%;
+}
+
+.carte:hover {
+    box-shadow: 10px 10px 10px rgba(33,33,33,.2); 
 }
 
 /*FOOTER*/

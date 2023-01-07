@@ -20,6 +20,7 @@
 
 .navbar .nav-link:hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 /*BANNER*/
@@ -75,7 +76,8 @@ header .container {
 
 .card:hover {
     box-shadow: 10px 10px 10px rgba(33,33,33,.2); 
-  }
+    cursor: pointer;
+}
 
 .card img {
     height: -webkit-fill-available;

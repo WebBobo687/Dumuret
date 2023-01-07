@@ -7,6 +7,7 @@
 
 .navbar a {
     color: #3c3c3c;
+    font-weight: bold;
 }
 .navbar .nav-link:hover {
     text-decoration: underline;
@@ -16,8 +17,8 @@
 
 header {
     background-image: url(/sources/batiment.png);
+    background-repeat: no-repeat;
     background-size: 100%;
-    background-attachment: fixed;
     height: 50vw;
 }
 

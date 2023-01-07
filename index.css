@@ -46,6 +46,11 @@ header .container {
 #wo_we_are p {
     padding-top: 20%;
 }
+
+/* SERVICES */
+.row {
+    justify-items: center;
+}
 /*FOOTER*/
 
 footer{

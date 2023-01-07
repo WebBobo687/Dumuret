@@ -6,6 +6,8 @@
 }
 
 .navbar a {
+    font-size: large;
+    font-weight: bold;
     color: #3c3c3c;
 }
 .navbar .nav-link:hover {
@@ -22,7 +24,12 @@ header {
 }
 
 header .container {
-    padding-top: 20%;
+    padding-top: 10%;
+}
+
+.header-title {
+    font-size: 5vw;
+    font-weight: bold;
 }
 
 /*who we are*/

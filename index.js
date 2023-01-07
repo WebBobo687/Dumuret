@@ -10,7 +10,7 @@ function constructionCard() {
         '</br>' +
         '<strong>Construction en béton armé :</strong> construction béton renforcé par des barres d\'acier (armatures). Le béton armé est particulièrement adapté pour les ouvrages de grande envergure ou soumis à de fortes charges.',
         icon: 'info',
-        confirmButtonText: 'Ok',
+        confirmButtonText: 'Retour',
         confirmButtonColor: '#00b3fa'
     })
 }
@@ -26,7 +26,7 @@ function habillageCard() {
         '- Peinture,</br>' +
         '- Revêtement piscine',
         icon: 'info',
-        confirmButtonText: 'Ok',
+        confirmButtonText: 'Retour',
         confirmButtonColor: '#00b3fa'
     })
 }
@@ -41,7 +41,7 @@ function renovationCard() {
         '</br>' +
         '<strong>Rénovation de façade :</strong> travaux visant à améliorer l\'apparence extérieure d\'un bâtiment, en réparant ou en ravalant sa façade. Cela peut inclure la réparation de fissures, le remplacement de matériaux dégradés ou la peinture de la façade.',
         icon: 'info',
-        confirmButtonText: 'Ok',
+        confirmButtonText: 'Retour',
         confirmButtonColor: '#00b3fa'
     })
 }

@@ -26,7 +26,7 @@
 /*BANNER*/
 
 header {
-    background-image: url(/sources/batiment.png);
+    background-image: url(./sources/batiment.png);
     background-repeat: no-repeat;
     background-size: 100%;
     height: 50vw;
